@@ -7,7 +7,6 @@ import jpabook.domain.OrderStatus;
 import jpabook.repository.OrderRepository;
 import jpabook.repository.order.simplequery.OrderSimpleQueryDto;
 import jpabook.repository.order.simplequery.OrderSimpleQueryRepository;
-import jpabook.service.OrderService;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
